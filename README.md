@@ -1,10 +1,10 @@
 # [Certificação em Python para Análise de Dados | PretaLab]([https://www.laboratoria.la/br/certificacao-analise-de-dados](https://www.pretalab.com/))
 
-Esse repositório contém os projetos e atividades realizadas durante a certificação em Python para Anaálise de Dados.
+Esse repositório contém os projetos e atividades realizadas durante a certificação em Python para Análise de Dados.
 
 # Sobre o programa
 
-Curso de Python para Análise de Dados com foco no que o mercado de trabalho tem utilizado. Com foco para mulheres negras e/u indígenas. 
+Curso de Python para Análise de Dados com foco no que o mercado de trabalho tem utilizado. Com foco para mulheres negras e/ou indígenas. 
 
 📚 Temas abordados:
 - Fundamentos e técnicas avançadas de Python
