@@ -18,7 +18,7 @@ Curso de Python para Análise de Dados com foco no que o mercado de trabalho tem
 
 
 ### **Skills/Tools**: 
-- Análise de Dados
-- SQL/Big Query/
+- Análise de Dados com python
+- SQL/Big Query
 - ETL
 - Visualizações de dados
